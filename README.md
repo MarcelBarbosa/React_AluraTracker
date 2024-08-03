@@ -11,3 +11,4 @@ Utilização da ferramenta do Recoil, Debug Observer, para a depuração da muda
 * Json-Server
 
 ## Visualização:
+<img src="./Projeto_AluraTracker.png" alt="imagem do projeto" />
